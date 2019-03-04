@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Estufa</string>
+    <string name="nome_de_usuario">Nome de usuario</string>
+    <string name="email">Email</string>
+    <string name="password">*********</string>
+    <string name="password2">*********</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="confirme_sua_senha">Confirme sua senha</string>
+    <string name="cadastrar">Cadastrar</string>
+
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+    <string name="estatisticas_nav">Estatisticas</string>
+    <string name="edita_nav">Programar</string>
+    <string name="historico_nav">Histórico</string>
+    <string name="grafico_nav">Gráficos</string>
+
+    <string-array name="tempo">
+        <item>Último mês</item>
+        <item>Última semana</item>
+        <item>Último dia</item>
+    </string-array>
+
+    <string-array name="meses">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">test</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

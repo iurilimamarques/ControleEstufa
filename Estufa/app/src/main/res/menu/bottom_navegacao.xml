@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_estatiId"
+        android:icon="@drawable/ic_estatistica_bottom"
+        android:title="@string/estatisticas_nav" />
+    <item
+        android:id="@+id/bottom_prograId"
+        android:icon="@drawable/ic_programar_bottom_24dp"
+        android:title="@string/edita_nav" />
+    <item
+        android:id="@+id/bottom_historicoId"
+        android:icon="@drawable/ic_historico_bottom_24dp"
+        android:title="@string/historico_nav" />
+    <item
+        android:id="@+id/bottom_grafico_diarioId"
+        android:icon="@drawable/ic_grafico_bottom_24dp"
+        android:title="@string/grafico_nav" />
+</menu>

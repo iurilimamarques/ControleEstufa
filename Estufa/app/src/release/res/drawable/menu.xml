@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector >
+    <item android:id="@+id/controleId"
+        android:title="Informações e Controle"/>
+
+    <item android:id="@+id/configuraId"
+        android:title="Minha Conta"/>
+
+    <item android:id="@+id/sairId"
+        android:title="Sair"/>
+</selector>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="300dp"
+        android:height="51dp"
+        android:start="11dp"
+        android:top="12dp">
+        <shape>
+            <solid android:color="@color/colorBlue"/>
+            <corners android:radius="5dp"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/shadow_botao_entrar_normal"
+        android:width="308dp"
+        android:height="60dp"
+        android:top="8dp"
+        android:start="7dp"/>
+</layer-list>

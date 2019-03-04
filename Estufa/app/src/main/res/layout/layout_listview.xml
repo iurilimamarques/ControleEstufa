@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="53dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="12dp"
+        android:background="@drawable/background_item_list_view"
+        android:paddingBottom="5dp">
+
+        <TextView
+            android:id="@+id/tvStatusId"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="150dp"
+            android:layout_marginTop="20dp"
+            android:text="Status:"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <TextView
+            android:id="@+id/tvDataId"
+            android:layout_width="53dp"
+            android:layout_height="11dp"
+            android:layout_alignStart="@+id/textView15"
+            android:gravity="top"
+            android:textColor="#8f8e8e"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/textViewId"
+            android:layout_width="5dp"
+            android:layout_height="11dp"
+            android:layout_marginStart="78dp"
+            android:gravity="top"
+            android:text="/"
+            android:textColor="#8f8e8e"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tvHoraId"
+            android:layout_width="53dp"
+            android:layout_height="11dp"
+            android:layout_marginStart="83dp"
+            android:gravity="top"
+            android:textColor="#8f8e8e"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/tvEstufaId"
+            android:layout_width="23dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="20dp"
+            android:text="Estufa:"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
